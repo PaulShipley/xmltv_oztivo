@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tv generator-info-name="Wktivoguide v5">
+  <channel id="Nine-Mel">
+    <display-name lang="en">Nine Melbourne</display-name>
+    <base-url>http://localhost/xmltv/</base-url>
+    <base-url>http://localhost/xmltv/</base-url>
+    <datafor lastmodified="20091105135903 +1000">2009-11-05</datafor>
+    <datafor lastmodified="20091102140521 +1000">2009-11-06</datafor>
+    <datafor lastmodified="20091107140214 +1000">2009-11-07</datafor>
+    <datafor lastmodified="20091106160855 +1000">2009-11-08</datafor>
+    <datafor lastmodified="20091109140355 +1000">2009-11-09</datafor>
+    <datafor lastmodified="20091106160856 +1000">2009-11-10</datafor>
+    <datafor lastmodified="20091109140356 +1000">2009-11-11</datafor>
+    <datafor lastmodified="20091109140357 +1000">2009-11-12</datafor>
+    <datafor lastmodified="20091112134824 +1000">2009-11-13</datafor>
+    <datafor lastmodified="20091113154356 +1000">2009-11-14</datafor>
+    <datafor lastmodified="20091114135851 +1000">2009-11-15</datafor>
+    <datafor lastmodified="20091114135851 +1000">2009-11-16</datafor>
+    <datafor lastmodified="20091113154356 +1000">2009-11-17</datafor>
+    <datafor lastmodified="20091113154357 +1000">2009-11-18</datafor>
+    <datafor lastmodified="20091119140415 +1000">2009-11-19</datafor>
+    <datafor lastmodified="20091119140415 +1000">2009-11-20</datafor>
+    <datafor lastmodified="20091121140527 +1000">2009-11-21</datafor>
+    <datafor lastmodified="20091120160006 +1000">2009-11-22</datafor>
+    <datafor lastmodified="20091121140527 +1000">2009-11-23</datafor>
+  </channel>
+  <channel id="GO">
+    <display-name lang="en">GO!</display-name>
+    <base-url>http://localhost/xmltv/</base-url>
+    <base-url>http://localhost/xmltv/</base-url>
+    <datafor lastmodified="20091105132229 +1000">2009-11-05</datafor>
+    <datafor lastmodified="20091103131049 +1000">2009-11-07</datafor>
+    <datafor lastmodified="20091103131050 +1000">2009-11-08</datafor>
+    <datafor lastmodified="20091107132140 +1000">2009-11-09</datafor>
+    <datafor lastmodified="20091105132229 +1000">2009-11-10</datafor>
+    <datafor lastmodified="20091105132230 +1000">2009-11-11</datafor>
+    <datafor lastmodified="20091106152944 +1000">2009-11-12</datafor>
+    <datafor lastmodified="20091107132140 +1000">2009-11-13</datafor>
+    <datafor lastmodified="20091112131623 +1000">2009-11-14</datafor>
+    <datafor lastmodified="20091113150239 +1000">2009-11-15</datafor>
+    <datafor lastmodified="20091116132840 +1000">2009-11-16</datafor>
+    <datafor lastmodified="20091112131625 +1000">2009-11-17</datafor>
+    <datafor lastmodified="20091113150241 +1000">2009-11-18</datafor>
+    <datafor lastmodified="20091113150242 +1000">2009-11-19</datafor>
+    <datafor lastmodified="20091114132111 +1000">2009-11-20</datafor>
+    <datafor lastmodified="20091115131111 +1000">2009-11-21</datafor>
+    <datafor lastmodified="20091120151638 +1000">2009-11-22</datafor>
+    <datafor lastmodified="20091121132346 +1000">2009-11-23</datafor>
+  </channel>
+</tv>

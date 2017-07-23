@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private"
+                 author="true"
+                 classpath="C:\Program Files\eclipse\plugins\org.hamcrest.core_1.1.0.v20090501071000.jar;../../Common;C:\Program Files\eclipse\plugins\org.junit4_4.5.0.v20090423\junit.jar"
+                 destdir="../doc"
+                 nodeprecated="false"
+                 nodeprecatedlist="false"
+                 noindex="false"
+                 nonavbar="false"
+                 notree="false"
+                 source="1.6"
+                 splitindex="true"
+                 use="true"
+                 version="true">
+            <packageset dir=".">
+                <include name="name/paulshipley/xmltv/**" />
+            </packageset>
+            <packageset dir="../../Common">
+                <include name="name/paulshipley/Common/**" />
+            </packageset>
+            <link href="http://java.sun.com/javase/6/docs/api/" />
+            <bottom>
+                <![CDATA[<i>Copyright &#169; 2010 Paul Shipley. All Rights Reserved.</i>]]>
+            </bottom>
+    </javadoc>
+</target>
+</project>

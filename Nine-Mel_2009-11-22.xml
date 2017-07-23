@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tv generator-info-name="Wktivoguide v5">
+  <programme start="20091122012000 +1100" stop="20091122040000 +1100" channel="Nine-Mel">
+    <title>S.O.S. Titanic</title>
+    <desc>The courage and horror that accompanied the sinking of the unsinkable Titanic in history&apos;s most awesome sea disaster are dramatically recreated in detail. Tells the complete story exactly as it happened. Just 703 people, primarily women and children, survived out of a total 2206 passengers and crew. (V,A)</desc>
+    <credits>
+      <director>William Hale</director>
+      <actor>David Janssen</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>David Warner</actor>
+      <actor>Ian Holm</actor>
+    </credits>
+    <date>1979</date>
+    <category>Drama</category>
+    <category>Movie</category>
+    <category>Drama Group</category>
+    <category>Movies</category>
+    <rating><value>PG</value></rating>
+    <star-rating><value>6/10</value></star-rating>
+  </programme>
+  <programme start="20091122040000 +1100" stop="20091122043000 +1100" channel="Nine-Mel">
+    <title>Danoz Direct</title>
+    <desc>Home shopping.</desc>
+    <category>Shopping</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122043000 +1100" stop="20091122050000 +1100" channel="Nine-Mel">
+    <title>Jesse Duplantis Ministries</title>
+    <desc>Jesse Duplantis is a dynamic evangelist called to minister God&apos;s message of salvation through Jesus Christ to the world. Anointed by God, Jesse melts even the hardest hearts with his unique preaching style, using hilarious illustrations and strong Biblical teachings</desc>
+    <credits>
+      <actor>Jesse Duplantis</actor>
+    </credits>
+    <category>Religion</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122050000 +1100" stop="20091122053000 +1100" channel="Nine-Mel">
+    <title>Life Today with James Robison</title>
+    <desc>Life Today explores the pain, sadness and suffering prevalent in many people&apos;s lives today, but most importantly, our daily show provides real answers for real-life circumstances.</desc>
+    <category>Religion</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122053000 +1100" stop="20091122060000 +1100" channel="Nine-Mel">
+    <title>Rise and Shine</title>
+    <desc>Religious program.</desc>
+    <category>Religion</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122060000 +1100" stop="20091122063000 +1100" channel="Nine-Mel">
+    <title>Go, Diego! Go!</title>
+    <desc>Uh oh, Chinta the Baby Chinchilla is lost! She&apos;s hanging on a tree branch over a river and could fall and chinchillas don&apos;t swim! CC</desc>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122063000 +1100" stop="20091122070000 +1100" channel="Nine-Mel">
+    <title>Dora the Explorer</title>
+    <desc>Dora is a seven-year-old Latina heroine who uses Spanish words to help her along in her many adventures with her friends Boots and Tico. CC</desc>
+    <category>Children</category>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122070000 +1100" stop="20091122100000 +1100" channel="Nine-Mel">
+    <title>Weekend Today</title>
+    <desc>Bringing you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle. CC</desc>
+    <credits>
+      <actor>Cameron Williams</actor>
+      <actor>Leila McKinnon</actor>
+    </credits>
+    <category>Current Affairs</category>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122100000 +1100" stop="20091122110000 +1100" channel="Nine-Mel">
+    <title>Wide World of Sports</title>
+    <desc>Join host Ken Sutcliffe and guest hosts Grant Hackett, Giaan Rooney and Michael Slater for all the overnight news and scores, sports features, special guests and light-hearted sporting moments.</desc>
+    <category>Sports News</category>
+    <category>Sports Group</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122110000 +1100" stop="20091122120000 +1100" channel="Nine-Mel">
+    <title>Surfsport</title>
+    <sub-title>Rip Curl Pro Bells Beach</sub-title>
+    <desc>Highlights of the Rip Curl Pro, Australia&apos;s longest running and most prestigious professional surfing event from Bells Beach, Victoria.</desc>
+    <category>Water Sports</category>
+    <category>Sports</category>
+    <category>Sports Group</category>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122120000 +1100" stop="20091122130000 +1100" channel="Nine-Mel">
+    <title>The ARIA Music Show</title>
+    <desc>The latest hits from ARIA Charts.</desc>
+    <category>Music</category>
+    <category>Arts and Living</category>
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122130000 +1100" stop="20091122133000 +1100" channel="Nine-Mel">
+    <title>On Display</title>
+    <desc>Take a walk through some of Victoria&apos;s newest housing estates and see the latest look in design and features</desc>
+    <category>Home and Garden</category>
+  </programme>
+  <programme start="20091122133000 +1100" stop="20091122140000 +1100" channel="Nine-Mel">
+    <title>Gilligan&apos;s Island</title>
+    <desc>Five tourists led by the hapless First Mate Gilligan and the gruff Skipper of a small boat are shipwrecked and marooned on a deserted island.</desc>
+    <credits>
+      <actor>Bob Denver</actor>
+      <actor>Alan Hale Jr.</actor>
+      <actor>Tina Louise</actor>
+      <actor>Jim Backus</actor>
+    </credits>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122140000 +1100" stop="20091122160000 +1100" channel="Nine-Mel">
+    <title>The Blue Butterfly</title>
+    <desc>A terminally ill 10-year-old boy goes on an adventure to catch the most beautiful butterfly on Earth, the mythic and elusive Blue Morpho. CC</desc>
+    <credits>
+      <director>LeA Pool</director>
+      <actor>William Hurt</actor>
+      <actor>Pascale Bussieres</actor>
+    </credits>
+    <date>2004</date>
+    <category>Drama</category>
+    <category>Movie</category>
+    <category>Drama Group</category>
+    <category>Movies</category>
+    <subtitles type="teletext" />
+    <rating><value>C</value></rating>
+    <star-rating><value>6/10</value></star-rating>
+  </programme>
+  <programme start="20091122160000 +1100" stop="20091122163000 +1100" channel="Nine-Mel">
+    <title>The Pursuit</title>
+    <desc>Three teams of two people race around Australia&apos;s capital cities in the ultimate treasure hunt. In one day, they will crack four cryptic clues that lead them to four secret locations, where the first across the finishing line gets the rights to go into the Grand Final where they could win $25,000. Hosted by Maude Garrett.</desc>
+    <category>Reality</category>
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122163000 +1100" stop="20091122173000 +1100" channel="Nine-Mel">
+    <title>Coles Great Aussie Cook-off</title>
+    <desc>Great Aussie Cook Off hosts Jo Silvagni and Vince Sorrenti introduce the eight families, who have been carefully selected from hundreds of applicants in a nationwide search across the country. Today, Jo and Vince go head to head in a friendly cook off. Who will take the prize in the series premiere?</desc>
+    <category>Cooking</category>
+    <category>Reality</category>
+    <category>Reality Group</category>
+    <category>Daytime</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122173000 +1100" stop="20091122180000 +1100" channel="Nine-Mel">
+    <title>Postcards</title>
+    <desc>Places and people of interest from Australia.</desc>
+    <category>Documentary</category>
+    <category>Travel</category>
+    <category>Arts and Living</category>
+    <category>Documentaries</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122180000 +1100" stop="20091122183000 +1100" channel="Nine-Mel">
+    <title>Nine News</title>
+    <desc>News from Australia and overseas, plus sports and weather.</desc>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122183000 +1100" stop="20091122193000 +1100" channel="Nine-Mel">
+    <title>60 Minutes</title>
+    <sub-title>60</sub-title>
+    <desc>Current affairs program featuring reports, interviews, profiles and stories on the issues facing Australians. CC</desc>
+    <credits>
+      <actor>Liam Bartlett</actor>
+      <actor>Liz Hayes</actor>
+      <actor>Tara Brown</actor>
+      <actor>Peter Overton.</actor>
+    </credits>
+    <category>Current Affairs</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122193000 +1100" stop="20091122223000 +1100" channel="Nine-Mel">
+    <title>All Star Twenty 20: All Stars V Australian Xi</title>
+    <desc>The community TV guide system has no description for this program. You can help by adding the missing information: see http://www.oztivo.net/twiki/bin/view/TVGuide/HowToHelpUs.</desc>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122223000 +1100" stop="20091123010000 +1100" channel="Nine-Mel">
+    <title>The Longest Yard</title>
+    <desc>When former NFL superstar Paul Crewe is sent to prison for a drink driving incident, the warden forces him to transform a group of inmates into a football team. Crewe promises the cons a chance to exact revenge in a bone-crushing showdown with the prison officials where anything goes.</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Chris Rock</actor>
+      <actor>Burt Reynolds</actor>
+      <actor>Nelly</actor>
+      <actor>James Cromwell</actor>
+    </credits>
+    <date>2005</date>
+    <category>Comedy</category>
+    <category>Crime</category>
+    <category>Movies</category>
+    <subtitles type="teletext" />
+    <rating><value>M</value></rating>
+    <star-rating><value>6/10</value></star-rating>
+  </programme>
+</tv>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tv generator-info-name="Wktivoguide v5">
+  <programme start="20091122004500 +1100" stop="20091122023000 +1100" channel="GO">
+    <title>One Million Years B.C.</title>
+    <desc>Loana, a member of a gentle prehistoric tribe, leaves her peaceful home when a stranger arrives and she finds love.</desc>
+    <credits>
+      <director>Don Chaffey</director>
+      <actor>Raquel Welch</actor>
+      <actor>John Richardson</actor>
+    </credits>
+    <date>1967</date>
+    <category>Adventure</category>
+    <category>Fantasy</category>
+    <category>Action and Adventure</category>
+    <category>Movies</category>
+    <rating><value>PG</value></rating>
+    <star-rating><value>5/10</value></star-rating>
+  </programme>
+  <programme start="20091122023000 +1100" stop="20091122030000 +1100" channel="GO">
+    <title>Get Smart</title>
+    <sub-title>School Days</sub-title>
+    <desc>Max, Fang and 99 go undercover to find who&apos;s infiltrated the Control Spy School.</desc>
+    <credits>
+      <director>Paul Bogart</director>
+      <actor>Don Adams</actor>
+      <actor>Barbara Feldon</actor>
+      <actor>Ben Wright</actor>
+      <actor>Byron Morrow</actor>
+    </credits>
+    <date>1965</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122030000 +1100" stop="20091122033000 +1100" channel="GO">
+    <title>Get Smart</title>
+    <sub-title>Our Man in Toyland</sub-title>
+    <desc>Kaos is using toy dolls with pull strings to smuggle their secrets.</desc>
+    <credits>
+      <actor>Don Adams</actor>
+      <actor>Barbara Feldon</actor>
+      <actor>Edward C. Platt</actor>
+      <actor>Robert Karavelas</actor>
+    </credits>
+    <date>1965</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122033000 +1100" stop="20091122040000 +1100" channel="GO">
+    <title>Hogan&apos;s Heroes</title>
+    <sub-title>Anchors Aweigh, Men of Stalag 13</sub-title>
+    <desc>Captain Michaels, a British POW, has escaped from Stalag 5 with a new German gunsight.</desc>
+    <credits>
+      <director>Howard Morris</director>
+      <actor>Bob Crane</actor>
+      <actor>Werner Klemperer</actor>
+      <actor>John Banner</actor>
+      <actor>Robert Clary</actor>
+      <actor>Richard Dawson</actor>
+      <actor>Ivan Dixon</actor>
+      <actor>Larry Hovis</actor>
+    </credits>
+    <date>1965</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122040000 +1100" stop="20091122043000 +1100" channel="GO">
+    <title>Hogan&apos;s Heroes</title>
+    <sub-title>Happy Birthday, Adolf</sub-title>
+    <desc>The guys plan to destroy a gun emplacement, so the Allies can attack on Hitler&apos;s birthday.</desc>
+    <credits>
+      <director>Robert Butler</director>
+      <actor>Bob Crane</actor>
+      <actor>Werner Klemperer</actor>
+      <actor>John Banner</actor>
+      <actor>Robert Clary</actor>
+      <actor>Richard Dawson</actor>
+      <actor>Ivan Dixon</actor>
+      <actor>Larry Hovis</actor>
+    </credits>
+    <date>1966</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122043000 +1100" stop="20091122050000 +1100" channel="GO">
+    <title>Reno 911!</title>
+    <sub-title>Burning Man Festival</sub-title>
+    <desc>An irreverent look at what goes on behind the scenes in the city of Reno&apos;s police department.</desc>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating><value>M</value></rating>
+  </programme>
+  <programme start="20091122050000 +1100" stop="20091122053000 +1100" channel="GO">
+    <title>The Jetsons</title>
+    <sub-title>TV or Not TV</sub-title>
+    <desc>George and Astro think that they have witnessed a robbery but do not realise that it is for a TV show and try to hide from the &apos;robbers&apos;...</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122053000 +1100" stop="20091122060000 +1100" channel="GO">
+    <title>Marine Boy</title>
+    <sub-title>Secret of the Time Capsule</sub-title>
+    <desc>A mysterious time capsule is found by Marine Boy and Splasher who take it to Dr. Mariner.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122060000 +1100" stop="20091122063000 +1100" channel="GO">
+    <title>Chowder</title>
+    <sub-title>Sniffleball/mung On The Rocks</sub-title>
+    <desc>Sniffleball:Feeling that Chowder&apos;s been spending too much time in the kitchen, Mung forces him to play sports with the other kids. Beset by Panini&apos;s kisses and Gorgonzola&apos;s taunts, Chowder has to figure out a way to escape the game and get back home./Mung On the Rocks:Truffles gives Mung the cold shoulder after he forgets their 450th wedding anniversary. With Mung too sad to even cook anymore, Chowder must take action to bring the two lovebirds back together.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <category>Children</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122063000 +1100" stop="20091122070000 +1100" channel="GO">
+    <title>Squirrel Boy</title>
+    <sub-title>Birthday Boy/Freaky Fur Day</sub-title>
+    <desc>It&apos;s Andy&apos;s birthday, and wouldn&apos;t you know it - what with all the lounging and the resting and the napping, Rodney totally forgot.</desc>
+    <category>Animated</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122070000 +1100" stop="20091122070500 +1100" channel="GO">
+    <title>Kids&apos; WB</title>
+    <desc>Hosted by Shura Taft and Heidi Valkenburg.</desc>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122070500 +1100" stop="20091122073000 +1100" channel="GO">
+    <title>Thunderbirds</title>
+    <sub-title>Vault of Death</sub-title>
+    <desc>Workaholic employee Lambert is trapped inside a revolutionary new vault which automatically pumps all the air out to keep everything sterile.</desc>
+    <credits>
+      <actor>Sylvia Anderson</actor>
+      <actor>Ray Barrett</actor>
+      <actor>David Holliday</actor>
+      <actor>Shane Rimmer</actor>
+    </credits>
+    <category>Science Fiction</category>
+    <category>Children</category>
+    <category>Sci-Fi and Fantasy</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122073000 +1100" stop="20091122080000 +1100" channel="GO">
+    <title>Camp Lazlo</title>
+    <sub-title>Camp Samson/Beany Weenies</sub-title>
+    <desc>Escape the craziness of urban life for a wacky adventure in the wilderness with Brazilian spider monkey named Lazlo, Raj, an Indian elephant, and Clam, an eccentric, albino pygmy rhino.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122080000 +1100" stop="20091122083000 +1100" channel="GO">
+    <title>Loonatics Unleashed</title>
+    <sub-title>The Fall of Blanc (Pt 1)</sub-title>
+    <desc>Duck receives a distress call from Tweetums that Planet Blanc is under attack. By the time the Loonatics arrive, Tweetums&apos; Court has been destroyed, and Tweetums is missing.</desc>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">..0</episode-num>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122083000 +1100" stop="20091122090000 +1100" channel="GO">
+    <title>Tom and Jerry Tales</title>
+    <sub-title>You&apos;re Lion/ Kangadoofus/ Monkey Chow</sub-title>
+    <desc>Tom visits the Africa to see his lion relatives and give them Jerry as a present, but the lions would rather eat Tom.</desc>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122090000 +1100" stop="20091122093000 +1100" channel="GO">
+    <title>The Grim Adventures of Billy and Mandy</title>
+    <sub-title>Nigel Planter &amp; the order of the Peanuts / The Incredible Shrinking Mandy</sub-title>
+    <desc>The gang discover that the world&apos;s most obnoxious wizard has turned bad, so they return to Toadblatt&apos;s to stop the madness.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122093000 +1100" stop="20091122100000 +1100" channel="GO">
+    <title>Ben 10</title>
+    <sub-title>Dr Animo And The Mutant Ray</sub-title>
+    <desc>When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into 10 different alien heroes.</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Meagan Smith</actor>
+      <actor>Paul Eiding</actor>
+    </credits>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122100000 +1100" stop="20091122103000 +1100" channel="GO">
+    <title>The Batman</title>
+    <sub-title>The Joining Pt. 1</sub-title>
+    <desc>John Jones, a new detective in Gotham, hints that he may know Batman&apos;s secret. Batman must uncover this mysterious figure&apos;s true identity and determine whether he is a friend or a foe. The answers prove shocking.</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Ming-Na</actor>
+    </credits>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122103000 +1100" stop="20091122110000 +1100" channel="GO">
+    <title>Legion of Super Heroes</title>
+    <sub-title>Man From The Edge Of Tomorrow:part 2</sub-title>
+    <desc>Join a young Superman in the 31st century as he gets recruited by teen superheroes from the future.</desc>
+    <category>Animated</category>
+    <episode-num system="xmltv_ns">..1</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122110000 +1100" stop="20091122113000 +1100" channel="GO">
+    <title>Class of 3000</title>
+    <sub-title>Prank Yankers</sub-title>
+    <desc>Tamika gets involved with two older girls who are the coolest and, hence, most popular in school.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122113000 +1100" stop="20091122120000 +1100" channel="GO">
+    <title>The Partridge Family</title>
+    <sub-title>See Here, Private Partridge</sub-title>
+    <desc>The Partridge family is off to record their first album. However, they receive a letter from the US Government. To the total surprise of everyone, 10-year-old Danny has been drafted!</desc>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122120000 +1100" stop="20091122130000 +1100" channel="GO">
+    <title>Charlie&apos;s Angels</title>
+    <sub-title>Antique Angels</sub-title>
+    <desc>The Angels and Bosley masquerade as Keystone Kops in order to recover a highly radioactive gas that is stolen.</desc>
+    <credits>
+      <actor>Jaclyn Smith</actor>
+      <actor>David Doyle</actor>
+      <actor>John Forsythe</actor>
+    </credits>
+    <date>1976</date>
+    <category>Action</category>
+    <category>Crime Drama</category>
+    <category>Action and Adventure</category>
+    <category>Drama Group</category>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122130000 +1100" stop="20091122133000 +1100" channel="GO">
+    <title>Marine Boy</title>
+    <sub-title>Battle to Save the World</sub-title>
+    <desc>Marine Boy leaves the P-1 to search for the wreckage of a ship sunk by Captain Rex Rancid&apos;s electronic missiles.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122133000 +1100" stop="20091122140000 +1100" channel="GO">
+    <title>Marine Boy</title>
+    <sub-title>The Terrifying Icebergs</sub-title>
+    <desc>Marine Boy and P-1 are sent to investigate the disappearance of ships at the North Pole, apparently due to icebergs.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122140000 +1100" stop="20091122143000 +1100" channel="GO">
+    <title>Josie and the Pussycats</title>
+    <sub-title>Melody Memory Mix-up</sub-title>
+    <desc>Melody Memory Mix-Up: Melody becomes super-intelligent when Professor Leighton commits his secret formula to her memory.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122143000 +1100" stop="20091122150000 +1100" channel="GO">
+    <title>Scooby-Doo</title>
+    <sub-title>A Gaggle of Galloping Ghosts</sub-title>
+    <desc>The gang visits Franken Castle, which seems to be crowded with famous inhabitants Dracula, the Monster and Wolf Man.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122150000 +1100" stop="20091122153000 +1100" channel="GO">
+    <title>The Jetsons</title>
+    <sub-title>Super George</sub-title>
+    <desc>George buys a machine that makes his dreams come true, however, when it malfunctions it leaves him with superhuman strength. Losing his job he becomes a wrestler.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122153000 +1100" stop="20091122160000 +1100" channel="GO">
+    <title>The Jetsons</title>
+    <sub-title>Family Fallout</sub-title>
+    <desc>The Jetsons enter a TV game show to win a new &apos;Foodarackacycle&apos; but their opponents turn out to be George&apos;s boss, Mr Spacely and his family.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122160000 +1100" stop="20091122163000 +1100" channel="GO">
+    <title>The Flintstones</title>
+    <sub-title>The Hit Song Writers</sub-title>
+    <desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122163000 +1100" stop="20091122170000 +1100" channel="GO">
+    <title>The Flintstones</title>
+    <sub-title>Droop Along Flintstone</sub-title>
+    <desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+    <category>Animated</category>
+    <category>Childrens Group</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122170000 +1100" stop="20091122173000 +1100" channel="GO">
+    <title>The Nanny</title>
+    <sub-title>California Here We Come</sub-title>
+    <desc>When Maxwell wants to produce a television show, Fran worries about what her moving to California will do.</desc>
+    <credits>
+      <director>Peter Marc Jacobson</director>
+      <actor>Fran Dreschler</actor>
+      <actor>Charles Shaughnessy</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Lauren Lane</actor>
+    </credits>
+    <date>1999</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">5.13.</episode-num>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091122173000 +1100" stop="20091122183000 +1100" channel="GO">
+    <title>Wipeout</title>
+    <desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world&apos;s largest extreme obstacle course.</desc>
+    <category>Game Show</category>
+    <category>Reality</category>
+    <category>Daytime</category>
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122183000 +1100" stop="20091122193000 +1100" channel="GO">
+    <title>Wipeout</title>
+    <desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world&apos;s largest extreme obstacle course.</desc>
+    <category>Game Show</category>
+    <category>Reality</category>
+    <category>Daytime</category>
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091122193000 +1100" stop="20091122200000 +1100" channel="GO">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Dead Hooker Juxtaposition</sub-title>
+    <desc>There&apos;s a new queen bee in the building! Penny develops a rivalry with a sexy female neighbour moves in to the building and threatens to become the &apos;new Penny&apos;.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122200000 +1100" stop="20091122203000 +1100" channel="GO">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Hofstadter Isotope</sub-title>
+    <desc>While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of &apos;Ladies&apos; Night&apos;.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122203000 +1100" stop="20091122210000 +1100" channel="GO">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Vegas Renormalization</sub-title>
+    <desc>Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122210000 +1100" stop="20091122213000 +1100" channel="GO">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Vegas Renormalization</sub-title>
+    <desc>Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091122213000 +1100" stop="20091122233000 +1100" channel="GO">
+    <title>License To Wed</title>
+    <desc>A couple must endure a humiliating obstacle course of a marriage-training program to prove that they are fit to wed in the church of their local reverend.</desc>
+    <credits>
+      <director>Ken Kwapis</director>
+      <actor>Robin Williams</actor>
+      <actor>Mandy Moore</actor>
+      <actor>John Krasinski</actor>
+    </credits>
+    <date>2007</date>
+    <category>Comedy</category>
+    <category>Movie</category>
+    <category>Comedies</category>
+    <category>Movies</category>
+    <rating><value>M</value></rating>
+    <star-rating><value>5/10</value></star-rating>
+  </programme>
+  <programme start="20091122233000 +1100" stop="20091123000000 +1100" channel="GO">
+    <title>Frasier</title>
+    <sub-title>The Gift Horse</sub-title>
+    <desc>Frasier and Niles compete to buy their father the best birthday present.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Kelsey Grammer</actor>
+      <actor>David Hyde Pierce</actor>
+      <actor>John Mahoney</actor>
+      <actor>Peri Gilpin</actor>
+      <actor>Jane Leeves</actor>
+    </credits>
+    <date>1997</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <rating><value>PG</value></rating>
+  </programme>
+</tv>

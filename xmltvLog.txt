@@ -1,0 +1,17 @@
+November 26, 2009 3:38:33 PM EST System.out in C:\Documents and Settings\Paul.C2D1G8\Eclipse35\xmltv\workspace\xmltv_oztivo\xmltvLog.txt
+xmltv - xmltv extract from oztivo (2006Nov23)
+
+
+    
+Copyright (C) 2009 Paul Shipley, Melbourne, Australia
+mailto:pshipley@melbpc.org.au
+http://member.melbpc.org.au/~pshipley
+
+
+
+
+Nine-Mel_2009-11-22.xml
+Nine-Mel_2009-11-23.xml
+GO_2009-11-22.xml
+GO_2009-11-23.xml
+November 26, 2009 3:38:37 PM EST Closing C:\Documents and Settings\Paul.C2D1G8\Eclipse35\xmltv\workspace\xmltv_oztivo\xmltvLog.txt

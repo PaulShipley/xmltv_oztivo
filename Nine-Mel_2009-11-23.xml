@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tv generator-info-name="Wktivoguide v5">
+  <programme start="20091123010000 +1100" stop="20091123020000 +1100" channel="Nine-Mel">
+    <title>The Baron</title>
+    <desc>John Mannering, The Baron , is an antiques dealer working in an informal capacity as an agent for British Diplomatic Intelligence.</desc>
+    <credits>
+      <actor>Steve Forrest</actor>
+      <actor>Sue Lloyd</actor>
+      <actor>Colin Gordon</actor>
+      <actor>Paul Ferris</actor>
+    </credits>
+    <category>Drama</category>
+    <category>Drama Group</category>
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123020000 +1100" stop="20091123023000 +1100" channel="Nine-Mel">
+    <title>Skippy The Bush Kangaroo</title>
+    <desc>The community TV guide system has no description for this program. You can help by adding the missing information: see http://www.oztivo.net/twiki/bin/view/TVGuide/HowToHelpUs.</desc>
+    <credits>
+      <actor>Ed Deveraux</actor>
+      <actor>Ken James</actor>
+    </credits>
+    <category>Family</category>
+    <category>Drama</category>
+    <category>Drama Group</category>
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091123023000 +1100" stop="20091123033000 +1100" channel="Nine-Mel">
+    <title>Guthy-Renker Australia</title>
+    <desc>Home shopping.</desc>
+    <category>Shopping</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123033000 +1100" stop="20091123040000 +1100" channel="Nine-Mel">
+    <title>Danoz Direct</title>
+    <desc>Home shopping.</desc>
+    <category>Shopping</category>
+    <category>Arts and Living</category>
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123040000 +1100" stop="20091123050000 +1100" channel="Nine-Mel">
+    <title>Good Morning America</title>
+    <sub-title>Sunday</sub-title>
+    <desc>Early-morning news and talk show from the ABC in the United States.</desc>
+    <credits>
+      <actor>Diane Sawyer</actor>
+      <actor>Charlie Gibson</actor>
+    </credits>
+    <category>News</category>
+    <category>Current Affairs</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123050000 +1100" stop="20091123053000 +1100" channel="Nine-Mel">
+    <title>Nine Early Morning News</title>
+    <desc>Get the latest local, national and international news.</desc>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123053000 +1100" stop="20091123060000 +1100" channel="Nine-Mel">
+    <title>Today</title>
+    <desc>News, current affairs, sports, politics and reports from specialists in entertainment, fashion, health and food.</desc>
+    <credits>
+      <actor>Lisa Wilkinson</actor>
+      <actor>Karl Stefanovic</actor>
+    </credits>
+    <category>News</category>
+    <category>Current Affairs</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123060000 +1100" stop="20091123090000 +1100" channel="Nine-Mel">
+    <title>Today</title>
+    <desc>News, current affairs, sports, politics and reports from specialists in entertainment, fashion, health and food.</desc>
+    <credits>
+      <actor>Lisa Wilkinson</actor>
+      <actor>Karl Stefanovic</actor>
+    </credits>
+    <category>News</category>
+    <category>Current Affairs</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123090000 +1100" stop="20091123110000 +1100" channel="Nine-Mel">
+    <title>Mornings with Kerri-Anne</title>
+    <desc>A selection of the latest show-biz news and gossip, overseas and local guests, music and current issues.</desc>
+    <credits>
+      <actor>Kerri-Anne Kennerley</actor>
+    </credits>
+    <category>Variety</category>
+    <category>Talk</category>
+    <category>Daytime</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123110000 +1100" stop="20091123120000 +1100" channel="Nine-Mel">
+    <title>Nine Morning News</title>
+    <desc>Local and international news.</desc>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123120000 +1100" stop="20091123130000 +1100" channel="Nine-Mel">
+    <title>The Ellen Degeneres Show</title>
+    <desc>Join Ellen as she hosts a unique mix of celebrity interviews, chart-topping and up-and-coming musical performances, audience participation games and segments spotlighting real-life stories and amazing talents.</desc>
+    <category>Talk</category>
+    <category>Daytime</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123130000 +1100" stop="20091123140000 +1100" channel="Nine-Mel">
+    <title>The View</title>
+    <desc>Hot topics and day to day issues discussed by the panel, ensuring you take a little time to enjoy the view.</desc>
+    <credits>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Barbara Walters</actor>
+      <actor>Joy Behar</actor>
+      <actor>Elisabeth Hasselbeck</actor>
+      <actor>Sherri Shepherd</actor>
+    </credits>
+    <category>Talk Show</category>
+    <category>Magazine</category>
+    <category>Daytime</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123140000 +1100" stop="20091123150000 +1100" channel="Nine-Mel">
+    <title>Days of Our Lives</title>
+    <desc>The daily dramas experienced by the citizens of Salem.</desc>
+    <credits>
+      <actor>Frances Reid</actor>
+      <actor>Peter Reckell</actor>
+    </credits>
+    <category>Soap Opera</category>
+    <category>Soap Opera</category>
+    <category>Daytime</category>
+    <category>Daytime</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123150000 +1100" stop="20091123153000 +1100" channel="Nine-Mel">
+    <title>Entertainment Tonight</title>
+    <desc>Mary Hart and Mark Steines bring the latest celebrity news events, exclusive interviews, behind-the-scenes first looks, and Hollywood&apos;s hottest stories from the worlds of film, television, music, fashion, literature and interactive media.</desc>
+    <credits>
+      <actor>Mark Steines</actor>
+      <actor>Mary Hart</actor>
+    </credits>
+    <category>Magazine</category>
+    <category>Arts and Living</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123153000 +1100" stop="20091123160000 +1100" channel="Nine-Mel">
+    <title>The Kingdom of Paramithi</title>
+    <desc>Time is spent in the court of King John and Queen Isabella as they sing and dance their way through a day of pageantry, performance, music and fun. The Kingdom of Paramithi is the latest creation from The Wiggles team.</desc>
+    <category>Animated</category>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <subtitles type="teletext" />
+    <rating><value>P</value></rating>
+  </programme>
+  <programme start="20091123160000 +1100" stop="20091123163000 +1100" channel="Nine-Mel">
+    <title>Pyramid</title>
+    <desc>A fun, fast-paced game show the whole family can enjoy. Two teams go head-to-head in a competition to describe a series of simple objects, places or things, without actually using the object&apos;s name. CC</desc>
+    <category>Game Show</category>
+    <category>Children</category>
+    <category>Childrens Group</category>
+    <subtitles type="teletext" />
+    <rating><value>C</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123163000 +1100" stop="20091123170000 +1100" channel="Nine-Mel">
+    <title>Nine Afternoon News</title>
+    <desc>National and international news.</desc>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+  </programme>
+  <programme start="20091123170000 +1100" stop="20091123173000 +1100" channel="Nine-Mel">
+    <title>Antiques Roadshow</title>
+    <desc>Join the hopeful owners delighting in the possibility that their piece is about to be revealed as a priceless treasure.
+</desc>
+    <credits>
+      <actor>Michael Aspel</actor>
+    </credits>
+    <category>Collectibles</category>
+    <category>Reality</category>
+    <category>Arts and Living</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123173000 +1100" stop="20091123180000 +1100" channel="Nine-Mel">
+    <title>The Hot Seat</title>
+    <desc>In this game of strategy, skill and survival, contestants go head to head in a mighty battle to win cash.</desc>
+    <credits>
+      <actor>Eddie Mcguire</actor>
+    </credits>
+    <category>Game Show</category>
+    <category>Daytime</category>
+    <subtitles type="teletext" />
+    <rating><value>G</value></rating>
+  </programme>
+  <programme start="20091123180000 +1100" stop="20091123183000 +1100" channel="Nine-Mel">
+    <title>Nine News</title>
+    <desc>News from Australia and overseas, plus sports and weather.</desc>
+    <category>News</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123183000 +1100" stop="20091123190000 +1100" channel="Nine-Mel">
+    <title>A Current Affair</title>
+    <desc>Topical coverage on issues relating to health, lifestyle, consumer reports, celebrities and entertainment.</desc>
+    <category>Current Affairs</category>
+    <category>News and Business</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123190000 +1100" stop="20091123193000 +1100" channel="Nine-Mel">
+    <title>Two and a Half Men</title>
+    <sub-title>That&apos;s Summer Sausage, Not Salami</sub-title>
+    <desc>Charlie sets Alan up with their new neighbour, but he gets jealous when the two form a bond. (L,S) CC</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>John Cryer</actor>
+      <actor>Angus T Jones</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Michael Clarke Duncan</actor>
+    </credits>
+    <category>Comedy</category>
+    <category>Situation</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123193000 +1100" stop="20091123200000 +1100" channel="Nine-Mel">
+    <title>Two and a Half Men</title>
+    <sub-title>GORP, FNARK, SCHMEGLE</sub-title>
+    <desc>Charlie is a well-to-do bachelor with a house at the beach, a Jaguar in the garage and an easy way with women. His casual Malibu lifestyle is interrupted when his tightly wound brother, Alan, and Alan&apos;s son, Jake, come to stay with him.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>John Cryer</actor>
+      <actor>Angus T Jones</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Marin Hinkle</actor>
+    </credits>
+    <category>Comedy</category>
+    <category>Situation</category>
+    <category>Comedies</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123200000 +1100" stop="20091123203000 +1100" channel="Nine-Mel">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Pirate Solution</sub-title>
+    <desc>Raj must find a new job or be sent back to India. Sheldon, however, has a solution - which leaves Leonard and Penny dealing with Howard as a third wheel. (S) CC</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <date>2009</date>
+    <category>Comedy</category>
+    <category>Comedies</category>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+  <programme start="20091123203000 +1100" stop="20091123213000 +1100" channel="Nine-Mel">
+    <title>The Mentalist</title>
+    <sub-title>HIS RED RIGHT HAND</sub-title>
+    <desc>A consultant solves serious crimes by using his razor sharp skills of observation, which many confuse for psychic ability.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Owain Yeoman</actor>
+    </credits>
+    <category>Crime Drama</category>
+    <category>Drama Group</category>
+    <subtitles type="teletext" />
+    <rating><value>M</value></rating>
+  </programme>
+  <programme start="20091123213000 +1100" stop="20091123230000 +1100" channel="Nine-Mel">
+    <title>The Apprentice Australia</title>
+    <desc>Twelve candidates from around the country compete for the life-changing opportunity to be an apprentice to one of Australia&apos;s most successful businessmen, Mark Bouris.</desc>
+    <credits>
+      <actor>Mark Bouris</actor>
+    </credits>
+    <category>Reality</category>
+    <category>Reality Group</category>
+    <subtitles type="teletext" />
+    <rating><value>PG</value></rating>
+  </programme>
+  <programme start="20091123230000 +1100" stop="20091124000000 +1100" channel="Nine-Mel">
+    <title>Amazing Medical Stories</title>
+    <sub-title>Superhuman Giants / Face Blindness</sub-title>
+    <desc>These people aren&apos;t just tall, they are breaking the seven foot barrier. Also, the people in the next story have a unique condition called face blindness. They see perfectly well, they just can&apos;t process what anybody looks like, not even their own children. (MP) CC</desc>
+    <credits>
+      <actor>Rebecca Harris</actor>
+    </credits>
+    <category>Medical</category>
+    <category>Arts and Living</category>
+    <subtitles type="teletext" />
+    <rating><value>M</value></rating>
+    <star-rating><value>0/10</value></star-rating>
+  </programme>
+</tv>

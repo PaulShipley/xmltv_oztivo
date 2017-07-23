@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Paul Shipley, Melbourne, Australia)
+Class-Path: xmltv.jar
+Main-Class: name.paulshipley.xmltv.Main
+
+Name: name/paulshipley/xmltv
+Implementation-Vendor: Paul Shipley, Melbourne, Australia
+Implementation-URL: http://member.melbpc.org.au/~pshipley
+Implementation-Version: 1.0
+Implementation-Title: name.paulshipley.xmltv
+Comment: Fetch program guides and create xmltv.xml file for EyeTV (and similar)
+

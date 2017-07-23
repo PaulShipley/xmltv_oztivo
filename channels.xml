@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tv generator-info-name="Wktivoguide v5">
+  <channel id="GO">
+    <display-name lang="en">GO!</display-name>
+    <base-url>//http://localhost/xmltv/</base-url>
+    <base-url>//http://localhost/xmltv/</base-url>
+  </channel>
+  <channel id="Nine-Mel">
+    <display-name lang="en">Nine Melbourne</display-name>
+    <base-url>http://localhost/xmltv/</base-url>
+    <base-url>http://localhost/xmltv/</base-url>
+  </channel>
+  <channel id="ABCHD-Vic">
+    <display-name lang="en">ABC HD Victoria</display-name>
+    <base-url>http://localhost/xmltv/</base-url>
+    <base-url>http://localhost/xmltv/</base-url>
+  </channel>
+</tv>

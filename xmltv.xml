@@ -1,0 +1,1983 @@
+<tv generator-info-name="xmltv">
+<channel id="ABCHD-Vic">
+<display-name lang="en">ABC HD Victoria</display-name>
+</channel>
+<channel id="GO">
+<display-name lang="en">GO!</display-name>
+</channel>
+<channel id="Nine-Mel">
+<display-name lang="en">Nine Melbourne</display-name>
+</channel>
+<programme start="20091122012000 +1100" stop="20091122040000 +1100" channel="Nine-Mel">
+<title>S.O.S. Titanic</title>
+<desc>The courage and horror that accompanied the sinking of the unsinkable Titanic in history's most awesome sea disaster are dramatically recreated in detail. Tells the complete story exactly as it happened. Just 703 people, primarily women and children, survived out of a total 2206 passengers and crew. (V,A)</desc>
+<credits>
+<director>William Hale</director>
+<actor>David Janssen</actor>
+<actor>Cloris Leachman</actor>
+<actor>David Warner</actor>
+<actor>Ian Holm</actor>
+</credits>
+<date>1979</date>
+<category>Drama</category>
+<category>Movie</category>
+<category>Drama Group</category>
+<category>Movies</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>6/10</value>
+</star-rating>
+</programme>
+<programme start="20091122040000 +1100" stop="20091122043000 +1100" channel="Nine-Mel">
+<title>Danoz Direct</title>
+<desc>Home shopping.</desc>
+<category>Shopping</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122043000 +1100" stop="20091122050000 +1100" channel="Nine-Mel">
+<title>Jesse Duplantis Ministries</title>
+<desc>Jesse Duplantis is a dynamic evangelist called to minister God's message of salvation through Jesus Christ to the world. Anointed by God, Jesse melts even the hardest hearts with his unique preaching style, using hilarious illustrations and strong Biblical teachings</desc>
+<credits>
+<actor>Jesse Duplantis</actor>
+</credits>
+<category>Religion</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122050000 +1100" stop="20091122053000 +1100" channel="Nine-Mel">
+<title>Life Today with James Robison</title>
+<desc>Life Today explores the pain, sadness and suffering prevalent in many people's lives today, but most importantly, our daily show provides real answers for real-life circumstances.</desc>
+<category>Religion</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122053000 +1100" stop="20091122060000 +1100" channel="Nine-Mel">
+<title>Rise and Shine</title>
+<desc>Religious program.</desc>
+<category>Religion</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122060000 +1100" stop="20091122063000 +1100" channel="Nine-Mel">
+<title>Go, Diego! Go!</title>
+<desc>Uh oh, Chinta the Baby Chinchilla is lost! She's hanging on a tree branch over a river and could fall and chinchillas don't swim! CC</desc>
+<category>Children</category>
+<category>Childrens Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122063000 +1100" stop="20091122070000 +1100" channel="Nine-Mel">
+<title>Dora the Explorer</title>
+<desc>Dora is a seven-year-old Latina heroine who uses Spanish words to help her along in her many adventures with her friends Boots and Tico. CC</desc>
+<category>Children</category>
+<category>Animated</category>
+<category>Childrens Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122070000 +1100" stop="20091122100000 +1100" channel="Nine-Mel">
+<title>Weekend Today</title>
+<desc>Bringing you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle. CC</desc>
+<credits>
+<actor>Cameron Williams</actor>
+<actor>Leila McKinnon</actor>
+</credits>
+<category>Current Affairs</category>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122100000 +1100" stop="20091122110000 +1100" channel="Nine-Mel">
+<title>Wide World of Sports</title>
+<desc>Join host Ken Sutcliffe and guest hosts Grant Hackett, Giaan Rooney and Michael Slater for all the overnight news and scores, sports features, special guests and light-hearted sporting moments.</desc>
+<category>Sports News</category>
+<category>Sports Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122110000 +1100" stop="20091122120000 +1100" channel="Nine-Mel">
+<title>Surfsport</title>
+<sub-title>Rip Curl Pro Bells Beach</sub-title>
+<desc>Highlights of the Rip Curl Pro, Australia's longest running and most prestigious professional surfing event from Bells Beach, Victoria.</desc>
+<category>Water Sports</category>
+<category>Sports</category>
+<category>Sports Group</category>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122120000 +1100" stop="20091122130000 +1100" channel="Nine-Mel">
+<title>The ARIA Music Show</title>
+<desc>The latest hits from ARIA Charts.</desc>
+<category>Music</category>
+<category>Arts and Living</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122130000 +1100" stop="20091122133000 +1100" channel="Nine-Mel">
+<title>On Display</title>
+<desc>Take a walk through some of Victoria's newest housing estates and see the latest look in design and features</desc>
+<category>Home and Garden</category>
+</programme>
+<programme start="20091122133000 +1100" stop="20091122140000 +1100" channel="Nine-Mel">
+<title>Gilligan's Island</title>
+<desc>Five tourists led by the hapless First Mate Gilligan and the gruff Skipper of a small boat are shipwrecked and marooned on a deserted island.</desc>
+<credits>
+<actor>Bob Denver</actor>
+<actor>Alan Hale Jr.</actor>
+<actor>Tina Louise</actor>
+<actor>Jim Backus</actor>
+</credits>
+<category>Comedy</category>
+<category>Comedies</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122140000 +1100" stop="20091122160000 +1100" channel="Nine-Mel">
+<title>The Blue Butterfly</title>
+<desc>A terminally ill 10-year-old boy goes on an adventure to catch the most beautiful butterfly on Earth, the mythic and elusive Blue Morpho. CC</desc>
+<credits>
+<director>LeA Pool</director>
+<actor>William Hurt</actor>
+<actor>Pascale Bussieres</actor>
+</credits>
+<date>2004</date>
+<category>Drama</category>
+<category>Movie</category>
+<category>Drama Group</category>
+<category>Movies</category>
+<subtitles type="teletext"/>
+<rating>
+<value>C</value>
+</rating>
+<star-rating>
+<value>6/10</value>
+</star-rating>
+</programme>
+<programme start="20091122160000 +1100" stop="20091122163000 +1100" channel="Nine-Mel">
+<title>The Pursuit</title>
+<desc>Three teams of two people race around Australia's capital cities in the ultimate treasure hunt. In one day, they will crack four cryptic clues that lead them to four secret locations, where the first across the finishing line gets the rights to go into the Grand Final where they could win $25,000. Hosted by Maude Garrett.</desc>
+<category>Reality</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122163000 +1100" stop="20091122173000 +1100" channel="Nine-Mel">
+<title>Coles Great Aussie Cook-off</title>
+<desc>Great Aussie Cook Off hosts Jo Silvagni and Vince Sorrenti introduce the eight families, who have been carefully selected from hundreds of applicants in a nationwide search across the country. Today, Jo and Vince go head to head in a friendly cook off. Who will take the prize in the series premiere?</desc>
+<category>Cooking</category>
+<category>Reality</category>
+<category>Reality Group</category>
+<category>Daytime</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122173000 +1100" stop="20091122180000 +1100" channel="Nine-Mel">
+<title>Postcards</title>
+<desc>Places and people of interest from Australia.</desc>
+<category>Documentary</category>
+<category>Travel</category>
+<category>Arts and Living</category>
+<category>Documentaries</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122180000 +1100" stop="20091122183000 +1100" channel="Nine-Mel">
+<title>Nine News</title>
+<desc>News from Australia and overseas, plus sports and weather.</desc>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122183000 +1100" stop="20091122193000 +1100" channel="Nine-Mel">
+<title>60 Minutes</title>
+<sub-title>60</sub-title>
+<desc>Current affairs program featuring reports, interviews, profiles and stories on the issues facing Australians. CC</desc>
+<credits>
+<actor>Liam Bartlett</actor>
+<actor>Liz Hayes</actor>
+<actor>Tara Brown</actor>
+<actor>Peter Overton.</actor>
+</credits>
+<category>Current Affairs</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122193000 +1100" stop="20091122223000 +1100" channel="Nine-Mel">
+<title>All Star Twenty 20: All Stars V Australian Xi</title>
+<desc>The community TV guide system has no description for this program. You can help by adding the missing information: see http://www.oztivo.net/twiki/bin/view/TVGuide/HowToHelpUs.</desc>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122223000 +1100" stop="20091123010000 +1100" channel="Nine-Mel">
+<title>The Longest Yard</title>
+<desc>When former NFL superstar Paul Crewe is sent to prison for a drink driving incident, the warden forces him to transform a group of inmates into a football team. Crewe promises the cons a chance to exact revenge in a bone-crushing showdown with the prison officials where anything goes.</desc>
+<credits>
+<director>Peter Segal</director>
+<actor>Adam Sandler</actor>
+<actor>Chris Rock</actor>
+<actor>Burt Reynolds</actor>
+<actor>Nelly</actor>
+<actor>James Cromwell</actor>
+</credits>
+<date>2005</date>
+<category>Comedy</category>
+<category>Crime</category>
+<category>Movies</category>
+<subtitles type="teletext"/>
+<rating>
+<value>M</value>
+</rating>
+<star-rating>
+<value>6/10</value>
+</star-rating>
+</programme>
+<programme start="20091123010000 +1100" stop="20091123020000 +1100" channel="Nine-Mel">
+<title>The Baron</title>
+<desc>John Mannering, The Baron , is an antiques dealer working in an informal capacity as an agent for British Diplomatic Intelligence.</desc>
+<credits>
+<actor>Steve Forrest</actor>
+<actor>Sue Lloyd</actor>
+<actor>Colin Gordon</actor>
+<actor>Paul Ferris</actor>
+</credits>
+<category>Drama</category>
+<category>Drama Group</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123020000 +1100" stop="20091123023000 +1100" channel="Nine-Mel">
+<title>Skippy The Bush Kangaroo</title>
+<desc>The community TV guide system has no description for this program. You can help by adding the missing information: see http://www.oztivo.net/twiki/bin/view/TVGuide/HowToHelpUs.</desc>
+<credits>
+<actor>Ed Deveraux</actor>
+<actor>Ken James</actor>
+</credits>
+<category>Family</category>
+<category>Drama</category>
+<category>Drama Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123023000 +1100" stop="20091123033000 +1100" channel="Nine-Mel">
+<title>Guthy-Renker Australia</title>
+<desc>Home shopping.</desc>
+<category>Shopping</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123033000 +1100" stop="20091123040000 +1100" channel="Nine-Mel">
+<title>Danoz Direct</title>
+<desc>Home shopping.</desc>
+<category>Shopping</category>
+<category>Arts and Living</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123040000 +1100" stop="20091123050000 +1100" channel="Nine-Mel">
+<title>Good Morning America</title>
+<sub-title>Sunday</sub-title>
+<desc>Early-morning news and talk show from the ABC in the United States.</desc>
+<credits>
+<actor>Diane Sawyer</actor>
+<actor>Charlie Gibson</actor>
+</credits>
+<category>News</category>
+<category>Current Affairs</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123050000 +1100" stop="20091123053000 +1100" channel="Nine-Mel">
+<title>Nine Early Morning News</title>
+<desc>Get the latest local, national and international news.</desc>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123053000 +1100" stop="20091123060000 +1100" channel="Nine-Mel">
+<title>Today</title>
+<desc>News, current affairs, sports, politics and reports from specialists in entertainment, fashion, health and food.</desc>
+<credits>
+<actor>Lisa Wilkinson</actor>
+<actor>Karl Stefanovic</actor>
+</credits>
+<category>News</category>
+<category>Current Affairs</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123060000 +1100" stop="20091123090000 +1100" channel="Nine-Mel">
+<title>Today</title>
+<desc>News, current affairs, sports, politics and reports from specialists in entertainment, fashion, health and food.</desc>
+<credits>
+<actor>Lisa Wilkinson</actor>
+<actor>Karl Stefanovic</actor>
+</credits>
+<category>News</category>
+<category>Current Affairs</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123090000 +1100" stop="20091123110000 +1100" channel="Nine-Mel">
+<title>Mornings with Kerri-Anne</title>
+<desc>A selection of the latest show-biz news and gossip, overseas and local guests, music and current issues.</desc>
+<credits>
+<actor>Kerri-Anne Kennerley</actor>
+</credits>
+<category>Variety</category>
+<category>Talk</category>
+<category>Daytime</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123110000 +1100" stop="20091123120000 +1100" channel="Nine-Mel">
+<title>Nine Morning News</title>
+<desc>Local and international news.</desc>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123120000 +1100" stop="20091123130000 +1100" channel="Nine-Mel">
+<title>The Ellen Degeneres Show</title>
+<desc>Join Ellen as she hosts a unique mix of celebrity interviews, chart-topping and up-and-coming musical performances, audience participation games and segments spotlighting real-life stories and amazing talents.</desc>
+<category>Talk</category>
+<category>Daytime</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123130000 +1100" stop="20091123140000 +1100" channel="Nine-Mel">
+<title>The View</title>
+<desc>Hot topics and day to day issues discussed by the panel, ensuring you take a little time to enjoy the view.</desc>
+<credits>
+<actor>Whoopi Goldberg</actor>
+<actor>Barbara Walters</actor>
+<actor>Joy Behar</actor>
+<actor>Elisabeth Hasselbeck</actor>
+<actor>Sherri Shepherd</actor>
+</credits>
+<category>Talk Show</category>
+<category>Magazine</category>
+<category>Daytime</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123140000 +1100" stop="20091123150000 +1100" channel="Nine-Mel">
+<title>Days of Our Lives</title>
+<desc>The daily dramas experienced by the citizens of Salem.</desc>
+<credits>
+<actor>Frances Reid</actor>
+<actor>Peter Reckell</actor>
+</credits>
+<category>Soap Opera</category>
+<category>Soap Opera</category>
+<category>Daytime</category>
+<category>Daytime</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123150000 +1100" stop="20091123153000 +1100" channel="Nine-Mel">
+<title>Entertainment Tonight</title>
+<desc>Mary Hart and Mark Steines bring the latest celebrity news events, exclusive interviews, behind-the-scenes first looks, and Hollywood's hottest stories from the worlds of film, television, music, fashion, literature and interactive media.</desc>
+<credits>
+<actor>Mark Steines</actor>
+<actor>Mary Hart</actor>
+</credits>
+<category>Magazine</category>
+<category>Arts and Living</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123153000 +1100" stop="20091123160000 +1100" channel="Nine-Mel">
+<title>The Kingdom of Paramithi</title>
+<desc>Time is spent in the court of King John and Queen Isabella as they sing and dance their way through a day of pageantry, performance, music and fun. The Kingdom of Paramithi is the latest creation from The Wiggles team.</desc>
+<category>Animated</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>P</value>
+</rating>
+</programme>
+<programme start="20091123160000 +1100" stop="20091123163000 +1100" channel="Nine-Mel">
+<title>Pyramid</title>
+<desc>A fun, fast-paced game show the whole family can enjoy. Two teams go head-to-head in a competition to describe a series of simple objects, places or things, without actually using the object's name. CC</desc>
+<category>Game Show</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>C</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123163000 +1100" stop="20091123170000 +1100" channel="Nine-Mel">
+<title>Nine Afternoon News</title>
+<desc>National and international news.</desc>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+</programme>
+<programme start="20091123170000 +1100" stop="20091123173000 +1100" channel="Nine-Mel">
+<title>Antiques Roadshow</title>
+<desc>Join the hopeful owners delighting in the possibility that their piece is about to be revealed as a priceless treasure.
+</desc>
+<credits>
+<actor>Michael Aspel</actor>
+</credits>
+<category>Collectibles</category>
+<category>Reality</category>
+<category>Arts and Living</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123173000 +1100" stop="20091123180000 +1100" channel="Nine-Mel">
+<title>The Hot Seat</title>
+<desc>In this game of strategy, skill and survival, contestants go head to head in a mighty battle to win cash.</desc>
+<credits>
+<actor>Eddie Mcguire</actor>
+</credits>
+<category>Game Show</category>
+<category>Daytime</category>
+<subtitles type="teletext"/>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123180000 +1100" stop="20091123183000 +1100" channel="Nine-Mel">
+<title>Nine News</title>
+<desc>News from Australia and overseas, plus sports and weather.</desc>
+<category>News</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123183000 +1100" stop="20091123190000 +1100" channel="Nine-Mel">
+<title>A Current Affair</title>
+<desc>Topical coverage on issues relating to health, lifestyle, consumer reports, celebrities and entertainment.</desc>
+<category>Current Affairs</category>
+<category>News and Business</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123190000 +1100" stop="20091123193000 +1100" channel="Nine-Mel">
+<title>Two and a Half Men</title>
+<sub-title>That's Summer Sausage, Not Salami</sub-title>
+<desc>Charlie sets Alan up with their new neighbour, but he gets jealous when the two form a bond. (L,S) CC</desc>
+<credits>
+<actor>Charlie Sheen</actor>
+<actor>John Cryer</actor>
+<actor>Angus T Jones</actor>
+<actor>Conchata Ferrell</actor>
+<actor>Holland Taylor</actor>
+<actor>Marin Hinkle</actor>
+<actor>Michael Clarke Duncan</actor>
+</credits>
+<category>Comedy</category>
+<category>Situation</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">3.13.</episode-num>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123193000 +1100" stop="20091123200000 +1100" channel="Nine-Mel">
+<title>Two and a Half Men</title>
+<sub-title>GORP, FNARK, SCHMEGLE</sub-title>
+<desc>Charlie is a well-to-do bachelor with a house at the beach, a Jaguar in the garage and an easy way with women. His casual Malibu lifestyle is interrupted when his tightly wound brother, Alan, and Alan's son, Jake, come to stay with him.</desc>
+<credits>
+<actor>Charlie Sheen</actor>
+<actor>John Cryer</actor>
+<actor>Angus T Jones</actor>
+<actor>Conchata Ferrell</actor>
+<actor>Holland Taylor</actor>
+<actor>Marin Hinkle</actor>
+</credits>
+<category>Comedy</category>
+<category>Situation</category>
+<category>Comedies</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123200000 +1100" stop="20091123203000 +1100" channel="Nine-Mel">
+<title>The Big Bang Theory</title>
+<sub-title>The Pirate Solution</sub-title>
+<desc>Raj must find a new job or be sent back to India. Sheldon, however, has a solution - which leaves Leonard and Penny dealing with Howard as a third wheel. (S) CC</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">2.3.</episode-num>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123203000 +1100" stop="20091123213000 +1100" channel="Nine-Mel">
+<title>The Mentalist</title>
+<sub-title>HIS RED RIGHT HAND</sub-title>
+<desc>A consultant solves serious crimes by using his razor sharp skills of observation, which many confuse for psychic ability.</desc>
+<credits>
+<actor>Simon Baker</actor>
+<actor>Robin Tunney</actor>
+<actor>Tim Kang</actor>
+<actor>Amanda Righetti</actor>
+<actor>Owain Yeoman</actor>
+</credits>
+<category>Crime Drama</category>
+<category>Drama Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>M</value>
+</rating>
+</programme>
+<programme start="20091123213000 +1100" stop="20091123230000 +1100" channel="Nine-Mel">
+<title>The Apprentice Australia</title>
+<desc>Twelve candidates from around the country compete for the life-changing opportunity to be an apprentice to one of Australia's most successful businessmen, Mark Bouris.</desc>
+<credits>
+<actor>Mark Bouris</actor>
+</credits>
+<category>Reality</category>
+<category>Reality Group</category>
+<subtitles type="teletext"/>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123230000 +1100" stop="20091124000000 +1100" channel="Nine-Mel">
+<title>Amazing Medical Stories</title>
+<sub-title>Superhuman Giants / Face Blindness</sub-title>
+<desc>These people aren't just tall, they are breaking the seven foot barrier. Also, the people in the next story have a unique condition called face blindness. They see perfectly well, they just can't process what anybody looks like, not even their own children. (MP) CC</desc>
+<credits>
+<actor>Rebecca Harris</actor>
+</credits>
+<category>Medical</category>
+<category>Arts and Living</category>
+<subtitles type="teletext"/>
+<rating>
+<value>M</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122004500 +1100" stop="20091122023000 +1100" channel="GO">
+<title>One Million Years B.C.</title>
+<desc>Loana, a member of a gentle prehistoric tribe, leaves her peaceful home when a stranger arrives and she finds love.</desc>
+<credits>
+<director>Don Chaffey</director>
+<actor>Raquel Welch</actor>
+<actor>John Richardson</actor>
+</credits>
+<date>1967</date>
+<category>Adventure</category>
+<category>Fantasy</category>
+<category>Action and Adventure</category>
+<category>Movies</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>5/10</value>
+</star-rating>
+</programme>
+<programme start="20091122023000 +1100" stop="20091122030000 +1100" channel="GO">
+<title>Get Smart</title>
+<sub-title>School Days</sub-title>
+<desc>Max, Fang and 99 go undercover to find who's infiltrated the Control Spy School.</desc>
+<credits>
+<director>Paul Bogart</director>
+<actor>Don Adams</actor>
+<actor>Barbara Feldon</actor>
+<actor>Ben Wright</actor>
+<actor>Byron Morrow</actor>
+</credits>
+<date>1965</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.2.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122030000 +1100" stop="20091122033000 +1100" channel="GO">
+<title>Get Smart</title>
+<sub-title>Our Man in Toyland</sub-title>
+<desc>Kaos is using toy dolls with pull strings to smuggle their secrets.</desc>
+<credits>
+<actor>Don Adams</actor>
+<actor>Barbara Feldon</actor>
+<actor>Edward C. Platt</actor>
+<actor>Robert Karavelas</actor>
+</credits>
+<date>1965</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122033000 +1100" stop="20091122040000 +1100" channel="GO">
+<title>Hogan's Heroes</title>
+<sub-title>Anchors Aweigh, Men of Stalag 13</sub-title>
+<desc>Captain Michaels, a British POW, has escaped from Stalag 5 with a new German gunsight.</desc>
+<credits>
+<director>Howard Morris</director>
+<actor>Bob Crane</actor>
+<actor>Werner Klemperer</actor>
+<actor>John Banner</actor>
+<actor>Robert Clary</actor>
+<actor>Richard Dawson</actor>
+<actor>Ivan Dixon</actor>
+<actor>Larry Hovis</actor>
+</credits>
+<date>1965</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.15.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122040000 +1100" stop="20091122043000 +1100" channel="GO">
+<title>Hogan's Heroes</title>
+<sub-title>Happy Birthday, Adolf</sub-title>
+<desc>The guys plan to destroy a gun emplacement, so the Allies can attack on Hitler's birthday.</desc>
+<credits>
+<director>Robert Butler</director>
+<actor>Bob Crane</actor>
+<actor>Werner Klemperer</actor>
+<actor>John Banner</actor>
+<actor>Robert Clary</actor>
+<actor>Richard Dawson</actor>
+<actor>Ivan Dixon</actor>
+<actor>Larry Hovis</actor>
+</credits>
+<date>1966</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.16.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122043000 +1100" stop="20091122050000 +1100" channel="GO">
+<title>Reno 911!</title>
+<sub-title>Burning Man Festival</sub-title>
+<desc>An irreverent look at what goes on behind the scenes in the city of Reno's police department.</desc>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.9.</episode-num>
+<rating>
+<value>M</value>
+</rating>
+</programme>
+<programme start="20091122050000 +1100" stop="20091122053000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>TV or Not TV</sub-title>
+<desc>George and Astro think that they have witnessed a robbery but do not realise that it is for a TV show and try to hide from the 'robbers'...</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122053000 +1100" stop="20091122060000 +1100" channel="GO">
+<title>Marine Boy</title>
+<sub-title>Secret of the Time Capsule</sub-title>
+<desc>A mysterious time capsule is found by Marine Boy and Splasher who take it to Dr. Mariner.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122060000 +1100" stop="20091122063000 +1100" channel="GO">
+<title>Chowder</title>
+<sub-title>Sniffleball/mung On The Rocks</sub-title>
+<desc>Sniffleball:Feeling that Chowder's been spending too much time in the kitchen, Mung forces him to play sports with the other kids. Beset by Panini's kisses and Gorgonzola's taunts, Chowder has to figure out a way to escape the game and get back home./Mung On the Rocks:Truffles gives Mung the cold shoulder after he forgets their 450th wedding anniversary. With Mung too sad to even cook anymore, Chowder must take action to bring the two lovebirds back together.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<category>Children</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122063000 +1100" stop="20091122070000 +1100" channel="GO">
+<title>Squirrel Boy</title>
+<sub-title>Birthday Boy/Freaky Fur Day</sub-title>
+<desc>It's Andy's birthday, and wouldn't you know it - what with all the lounging and the resting and the napping, Rodney totally forgot.</desc>
+<category>Animated</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122070000 +1100" stop="20091122070500 +1100" channel="GO">
+<title>Kids' WB</title>
+<desc>Hosted by Shura Taft and Heidi Valkenburg.</desc>
+<category>Children</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122070500 +1100" stop="20091122073000 +1100" channel="GO">
+<title>Thunderbirds</title>
+<sub-title>Vault of Death</sub-title>
+<desc>Workaholic employee Lambert is trapped inside a revolutionary new vault which automatically pumps all the air out to keep everything sterile.</desc>
+<credits>
+<actor>Sylvia Anderson</actor>
+<actor>Ray Barrett</actor>
+<actor>David Holliday</actor>
+<actor>Shane Rimmer</actor>
+</credits>
+<category>Science Fiction</category>
+<category>Children</category>
+<category>Sci-Fi and Fantasy</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">0.12.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122073000 +1100" stop="20091122080000 +1100" channel="GO">
+<title>Camp Lazlo</title>
+<sub-title>Camp Samson/Beany Weenies</sub-title>
+<desc>Escape the craziness of urban life for a wacky adventure in the wilderness with Brazilian spider monkey named Lazlo, Raj, an Indian elephant, and Clam, an eccentric, albino pygmy rhino.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122080000 +1100" stop="20091122083000 +1100" channel="GO">
+<title>Loonatics Unleashed</title>
+<sub-title>The Fall of Blanc (Pt 1)</sub-title>
+<desc>Duck receives a distress call from Tweetums that Planet Blanc is under attack. By the time the Loonatics arrive, Tweetums' Court has been destroyed, and Tweetums is missing.</desc>
+<category>Animated</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">..0</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122083000 +1100" stop="20091122090000 +1100" channel="GO">
+<title>Tom and Jerry Tales</title>
+<sub-title>You're Lion/ Kangadoofus/ Monkey Chow</sub-title>
+<desc>Tom visits the Africa to see his lion relatives and give them Jerry as a present, but the lions would rather eat Tom.</desc>
+<category>Children</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122090000 +1100" stop="20091122093000 +1100" channel="GO">
+<title>The Grim Adventures of Billy and Mandy</title>
+<sub-title>Nigel Planter &amp; the order of the Peanuts / The Incredible Shrinking Mandy</sub-title>
+<desc>The gang discover that the world's most obnoxious wizard has turned bad, so they return to Toadblatt's to stop the madness.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122093000 +1100" stop="20091122100000 +1100" channel="GO">
+<title>Ben 10</title>
+<sub-title>Dr Animo And The Mutant Ray</sub-title>
+<desc>When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into 10 different alien heroes.</desc>
+<credits>
+<actor>Tara Strong</actor>
+<actor>Meagan Smith</actor>
+<actor>Paul Eiding</actor>
+</credits>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122100000 +1100" stop="20091122103000 +1100" channel="GO">
+<title>The Batman</title>
+<sub-title>The Joining Pt. 1</sub-title>
+<desc>John Jones, a new detective in Gotham, hints that he may know Batman's secret. Batman must uncover this mysterious figure's true identity and determine whether he is a friend or a foe. The answers prove shocking.</desc>
+<credits>
+<actor>Rino Romano</actor>
+<actor>Alastair Duncan</actor>
+<actor>Ming-Na</actor>
+</credits>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122103000 +1100" stop="20091122110000 +1100" channel="GO">
+<title>Legion of Super Heroes</title>
+<sub-title>Man From The Edge Of Tomorrow:part 2</sub-title>
+<desc>Join a young Superman in the 31st century as he gets recruited by teen superheroes from the future.</desc>
+<category>Animated</category>
+<episode-num system="xmltv_ns">..1</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122110000 +1100" stop="20091122113000 +1100" channel="GO">
+<title>Class of 3000</title>
+<sub-title>Prank Yankers</sub-title>
+<desc>Tamika gets involved with two older girls who are the coolest and, hence, most popular in school.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122113000 +1100" stop="20091122120000 +1100" channel="GO">
+<title>The Partridge Family</title>
+<sub-title>See Here, Private Partridge</sub-title>
+<desc>The Partridge family is off to record their first album. However, they receive a letter from the US Government. To the total surprise of everyone, 10-year-old Danny has been drafted!</desc>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">0.3.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122120000 +1100" stop="20091122130000 +1100" channel="GO">
+<title>Charlie's Angels</title>
+<sub-title>Antique Angels</sub-title>
+<desc>The Angels and Bosley masquerade as Keystone Kops in order to recover a highly radioactive gas that is stolen.</desc>
+<credits>
+<actor>Jaclyn Smith</actor>
+<actor>David Doyle</actor>
+<actor>John Forsythe</actor>
+</credits>
+<date>1976</date>
+<category>Action</category>
+<category>Crime Drama</category>
+<category>Action and Adventure</category>
+<category>Drama Group</category>
+<episode-num system="xmltv_ns">1.25.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122130000 +1100" stop="20091122133000 +1100" channel="GO">
+<title>Marine Boy</title>
+<sub-title>Battle to Save the World</sub-title>
+<desc>Marine Boy leaves the P-1 to search for the wreckage of a ship sunk by Captain Rex Rancid's electronic missiles.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122133000 +1100" stop="20091122140000 +1100" channel="GO">
+<title>Marine Boy</title>
+<sub-title>The Terrifying Icebergs</sub-title>
+<desc>Marine Boy and P-1 are sent to investigate the disappearance of ships at the North Pole, apparently due to icebergs.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122140000 +1100" stop="20091122143000 +1100" channel="GO">
+<title>Josie and the Pussycats</title>
+<sub-title>Melody Memory Mix-up</sub-title>
+<desc>Melody Memory Mix-Up: Melody becomes super-intelligent when Professor Leighton commits his secret formula to her memory.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">0.11.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122143000 +1100" stop="20091122150000 +1100" channel="GO">
+<title>Scooby-Doo</title>
+<sub-title>A Gaggle of Galloping Ghosts</sub-title>
+<desc>The gang visits Franken Castle, which seems to be crowded with famous inhabitants Dracula, the Monster and Wolf Man.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">0.10.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122150000 +1100" stop="20091122153000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>Super George</sub-title>
+<desc>George buys a machine that makes his dreams come true, however, when it malfunctions it leaves him with superhuman strength. Losing his job he becomes a wrestler.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122153000 +1100" stop="20091122160000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>Family Fallout</sub-title>
+<desc>The Jetsons enter a TV game show to win a new 'Foodarackacycle' but their opponents turn out to be George's boss, Mr Spacely and his family.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122160000 +1100" stop="20091122163000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>The Hit Song Writers</sub-title>
+<desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122163000 +1100" stop="20091122170000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>Droop Along Flintstone</sub-title>
+<desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122170000 +1100" stop="20091122173000 +1100" channel="GO">
+<title>The Nanny</title>
+<sub-title>California Here We Come</sub-title>
+<desc>When Maxwell wants to produce a television show, Fran worries about what her moving to California will do.</desc>
+<credits>
+<director>Peter Marc Jacobson</director>
+<actor>Fran Dreschler</actor>
+<actor>Charles Shaughnessy</actor>
+<actor>Daniel Davis</actor>
+<actor>Lauren Lane</actor>
+</credits>
+<date>1999</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">5.13.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091122173000 +1100" stop="20091122183000 +1100" channel="GO">
+<title>Wipeout</title>
+<desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world's largest extreme obstacle course.</desc>
+<category>Game Show</category>
+<category>Reality</category>
+<category>Daytime</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122183000 +1100" stop="20091122193000 +1100" channel="GO">
+<title>Wipeout</title>
+<desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world's largest extreme obstacle course.</desc>
+<category>Game Show</category>
+<category>Reality</category>
+<category>Daytime</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091122193000 +1100" stop="20091122200000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Dead Hooker Juxtaposition</sub-title>
+<desc>There's a new queen bee in the building! Penny develops a rivalry with a sexy female neighbour moves in to the building and threatens to become the 'new Penny'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122200000 +1100" stop="20091122203000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Hofstadter Isotope</sub-title>
+<desc>While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of 'Ladies' Night'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122203000 +1100" stop="20091122210000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Vegas Renormalization</sub-title>
+<desc>Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122210000 +1100" stop="20091122213000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Vegas Renormalization</sub-title>
+<desc>Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091122213000 +1100" stop="20091122233000 +1100" channel="GO">
+<title>License To Wed</title>
+<desc>A couple must endure a humiliating obstacle course of a marriage-training program to prove that they are fit to wed in the church of their local reverend.</desc>
+<credits>
+<director>Ken Kwapis</director>
+<actor>Robin Williams</actor>
+<actor>Mandy Moore</actor>
+<actor>John Krasinski</actor>
+</credits>
+<date>2007</date>
+<category>Comedy</category>
+<category>Movie</category>
+<category>Comedies</category>
+<category>Movies</category>
+<rating>
+<value>M</value>
+</rating>
+<star-rating>
+<value>5/10</value>
+</star-rating>
+</programme>
+<programme start="20091122233000 +1100" stop="20091123000000 +1100" channel="GO">
+<title>Frasier</title>
+<sub-title>The Gift Horse</sub-title>
+<desc>Frasier and Niles compete to buy their father the best birthday present.</desc>
+<credits>
+<director>Pamela Fryman</director>
+<actor>Kelsey Grammer</actor>
+<actor>David Hyde Pierce</actor>
+<actor>John Mahoney</actor>
+<actor>Peri Gilpin</actor>
+<actor>Jane Leeves</actor>
+</credits>
+<date>1997</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">4.1.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123000000 +1100" stop="20091123010000 +1100" channel="GO">
+<title>Wipeout</title>
+<desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world's largest extreme obstacle course.</desc>
+<category>Game Show</category>
+<category>Reality</category>
+<category>Daytime</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123010000 +1100" stop="20091123013000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Dead Hooker Juxtaposition</sub-title>
+<desc>There's a new queen bee in the building! Penny develops a rivalry with a sexy female neighbour moves in to the building and threatens to become the 'new Penny'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123013000 +1100" stop="20091123020000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Hofstadter Isotope</sub-title>
+<desc>While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of 'Ladies' Night'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123020000 +1100" stop="20091123023000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Vegas Renormalization</sub-title>
+<desc>Leonard and Koothrappali take a heartbroken Wolowitz to Las Vegas, leaving Sheldon locked out of his apartment and forced to bunk with Penny.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.20.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123023000 +1100" stop="20091123030000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Classified Materials Turbulence</sub-title>
+<desc>Penny makes a surprising revelation about Leonard when Penny makes a surprising revelation on her second date.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.21.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123030000 +1100" stop="20091123033000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>Family Fallout</sub-title>
+<desc>The Jetsons enter a TV game show to win a new 'Foodarackacycle' but their opponents turn out to be George's boss, Mr Spacely and his family.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123033000 +1100" stop="20091123040000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>The Hit Song Writers</sub-title>
+<desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">1.0.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123040000 +1100" stop="20091123043000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>Droop Along Flintstone</sub-title>
+<desc>More adventures in Bedrock as Fred and Barney unleash their own brand of prehistoric mayhem.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">1.1.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123043000 +1100" stop="20091123053000 +1100" channel="GO">
+<title>Charlie's Angels</title>
+<sub-title>Antique Angels</sub-title>
+<desc>The Angels and Bosley masquerade as Keystone Kops in order to recover a highly radioactive gas that is stolen.</desc>
+<credits>
+<actor>Jaclyn Smith</actor>
+<actor>David Doyle</actor>
+<actor>John Forsythe</actor>
+</credits>
+<date>1976</date>
+<category>Action</category>
+<category>Crime Drama</category>
+<category>Action and Adventure</category>
+<category>Drama Group</category>
+<episode-num system="xmltv_ns">1.25.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123053000 +1100" stop="20091123060000 +1100" channel="GO">
+<title>Marine Boy</title>
+<sub-title>Battle to Save the World</sub-title>
+<desc>Marine Boy leaves the P-1 to search for the wreckage of a ship sunk by Captain Rex Rancid's electronic missiles.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123060000 +1100" stop="20091123063000 +1100" channel="GO">
+<title>My Gym Partner's a Monkey</title>
+<sub-title>The Times, They Are Exchangin'/Cool Kids</sub-title>
+<desc>Adam goes back to his old school during an exchange program and realises things aren't exactly as he remembers them.</desc>
+<category>Animated</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123063000 +1100" stop="20091123070000 +1100" channel="GO">
+<title>The Life and Times of Juniper Lee</title>
+<sub-title>Bada Bing, Bada Boomfist</sub-title>
+<desc>Juniper "June" Lee is a typical 11-year-old girl having fun with friends, dealing with siblings, schoolwork &amp; fighting the forces of mischief and chaos that hide everywhere in forms of monsters &amp; goblins.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123070000 +1100" stop="20091123073000 +1100" channel="GO">
+<title>Krypto the Super Dog</title>
+<sub-title>Too Many Cooks/Join the Club</sub-title>
+<desc>Krypto , the Superdog, chronicles the comedic canine adventures of Metropolis' day-saving superdog from Planet Krypton. </desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123073000 +1100" stop="20091123080000 +1100" channel="GO">
+<title>Camp Lazlo</title>
+<sub-title>Where's Clam/Bowling for Dinosaurs</sub-title>
+<desc>When Raj loses Clam in the forest, he covers up his mistake by convincing Lazlo that Clam has become invisible.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123080000 +1100" stop="20091123083000 +1100" channel="GO">
+<title>Shaggy and Scooby-Doo: Get a Clue!</title>
+<sub-title>Don't Feed The Animals</sub-title>
+<desc>Adventures of Mystery, Inc. as Shaggy and Scooby solve crimes around the world.</desc>
+<category>Animated</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123083000 +1100" stop="20091123090000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>Here's Snow in Your Eyes</sub-title>
+<desc>Follows the adventures of Fred and Barney while at a lodge convention.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">2.5.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123090000 +1100" stop="20091123093000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>Crime Games</sub-title>
+<desc>No-one believes Elroy when he claims to have entered a criminal's computer finding plans to rob a bank, to prove he's telling the truth he plans to foil the robbery.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123093000 +1100" stop="20091123100000 +1100" channel="GO">
+<title>I Dream of Jeannie</title>
+<sub-title>The Biggest Star in Hollywood</sub-title>
+<desc>Jeannie appears on the Laugh-In show.</desc>
+<credits>
+<director>Claudio Guzman</director>
+<actor>Barbara Eden</actor>
+<actor>Larry Hagman</actor>
+<actor>Bill Daily</actor>
+<actor>Hayden Rorke</actor>
+</credits>
+<date>1969</date>
+<category>Comedy</category>
+<category>Fantasy</category>
+<category>Comedies</category>
+<category>Sci-Fi and Fantasy</category>
+<episode-num system="xmltv_ns">3.18.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123100000 +1100" stop="20091123103000 +1100" channel="GO">
+<title>Bewitched</title>
+<sub-title>Samantha on Thin Ice</sub-title>
+<desc>Tabitha wants to learn how to skate, and Samantha agrees to take lessons with her in the mortal way.</desc>
+<credits>
+<director>William Asher</director>
+<actor>Elizabeth Montgomery</actor>
+<actor>Dick Sargent</actor>
+<actor>Erin Murphy</actor>
+<actor>Alan Oppenheimer</actor>
+<actor>Agnes Moorehead</actor>
+</credits>
+<date>1972</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">7.17.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123103000 +1100" stop="20091123110000 +1100" channel="GO">
+<title>Entertainment Tonight</title>
+<desc>Mary Hart and Mark Steines bring the latest celebrity news events, exclusive interviews, behind-the-scenes first looks, and Hollywood's hottest stories from the worlds of film, television, music, fashion, literature and interactive media.</desc>
+<credits>
+<actor>Mark Steines</actor>
+<actor>Mary Hart</actor>
+</credits>
+<category>Magazine</category>
+<category>Arts and Living</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123110000 +1100" stop="20091123113000 +1100" channel="GO">
+<title>TMZ</title>
+<desc>TMZ TV is the first entertainment news magazine that covers Hollywood as it really is... and celebrities as they really are, where the reality is even more fascinating than the hype. Hot off the satellite each week.</desc>
+<category>Gossip</category>
+<category>Talk Shows</category>
+</programme>
+<programme start="20091123113000 +1100" stop="20091123120000 +1100" channel="GO">
+<title>The Partridge Family</title>
+<sub-title>M is for the Many Things</sub-title>
+<desc>Mother of the Year Shirley ends up in court to fight a speeding ticket on the way to receive her award.</desc>
+<date>1972</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">2.1.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123120000 +1100" stop="20091123123000 +1100" channel="GO">
+<title>Frasier</title>
+<sub-title>Three Valentines</sub-title>
+<desc>Frasier is frustrated by the ambiguous signals on his date with the station's PR manager... is it a business or a romantic dinner? Martin and Daphne go out together but both are feeling a bit self conscious.</desc>
+<credits>
+<director>Kelsey Grammer</director>
+<actor>Kelsey Grammer</actor>
+<actor>David Hyde Pierce</actor>
+<actor>John Mahoney</actor>
+<actor>Peri Gilpin</actor>
+<actor>Jane Leeves</actor>
+</credits>
+<date>1999</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">5.13.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123123000 +1100" stop="20091123130000 +1100" channel="GO">
+<title>Seinfeld</title>
+<sub-title>The Shower Head</sub-title>
+<desc>Elaine gets a physical for a pending trip with Peterman to Africa. Her test results show traces of opium, so Peterman fires her. Jerry's parents are in New York biding time until they can move back to Florida.</desc>
+<credits>
+<director>Andy Ackerman</director>
+<actor>Jerry Seinfeld</actor>
+<actor>Julia Louis-Dreyfus</actor>
+<actor>Jason Alexander</actor>
+<actor>Michael Richards</actor>
+</credits>
+<date>1996</date>
+<category>Comedy</category>
+<category>Situation</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">6.15.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123130000 +1100" stop="20091123133000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Dead Hooker Juxtaposition</sub-title>
+<desc>There's a new queen bee in the building! Penny develops a rivalry with a sexy female neighbour moves in to the building and threatens to become the 'new Penny'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.18.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123133000 +1100" stop="20091123140000 +1100" channel="GO">
+<title>The Big Bang Theory</title>
+<sub-title>The Hofstadter Isotope</sub-title>
+<desc>While a fellow comic book-loving pal of the guys romances Penny, Leonard and Wolowitz venture out into the world of 'Ladies' Night'.</desc>
+<credits>
+<actor>Johnny Galecki</actor>
+<actor>Jim Parsons</actor>
+<actor>Kaley Cuoco</actor>
+<actor>Simon Helberg</actor>
+<actor>Kunal Nayyar</actor>
+</credits>
+<date>2009</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">1.19.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123140000 +1100" stop="20091123150000 +1100" channel="GO">
+<title>Wipeout</title>
+<desc>Human cannonballs and pinballs. Crashes, smashes and mud splashes. Contestants face all this and more in the world's largest extreme obstacle course.</desc>
+<category>Game Show</category>
+<category>Reality</category>
+<category>Daytime</category>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123150000 +1100" stop="20091123153000 +1100" channel="GO">
+<title>Just Shoot Me!</title>
+<sub-title>When Nina Met Her Parents</sub-title>
+<desc>Nina worries when her biological parents come to visit. A blood test proves that she is not their daughter but she lies and tells them that she is, until Maya discovers that the two are merely con artists.</desc>
+<credits>
+<director>Pamela Fryman</director>
+<actor>Laura San Giacomo</actor>
+<actor>George Segal</actor>
+<actor>Wendie Malick</actor>
+<actor>Enrico Colantoni</actor>
+<actor>David Spade</actor>
+</credits>
+<date>2000</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">3.20.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123153000 +1100" stop="20091123160000 +1100" channel="GO">
+<title>The Nanny</title>
+<sub-title>Fran Gets Shushed</sub-title>
+<desc>Maxwell and Fran find themselves at odds over her noisy lovemaking.</desc>
+<credits>
+<director>Peter Marc Jacobson</director>
+<actor>Fran Dreschler</actor>
+<actor>Charles Shaughnessy</actor>
+<actor>Daniel Davis</actor>
+<actor>Lauren Lane</actor>
+</credits>
+<date>1998</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">5.1.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123160000 +1100" stop="20091123163000 +1100" channel="GO">
+<title>Camp Lazlo</title>
+<sub-title>Where's Clam/Bowling for Dinosaurs</sub-title>
+<desc>When Raj loses Clam in the forest, he covers up his mistake by convincing Lazlo that Clam has become invisible.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123163000 +1100" stop="20091123170000 +1100" channel="GO">
+<title>Shaggy and Scooby-Doo: Get a Clue!</title>
+<sub-title>Don't Feed The Animals</sub-title>
+<desc>Adventures of Mystery, Inc. as Shaggy and Scooby solve crimes around the world.</desc>
+<category>Animated</category>
+<category>Children</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123170000 +1100" stop="20091123173000 +1100" channel="GO">
+<title>I Dream of Jeannie</title>
+<sub-title>The Case of the Porcelain Puppy</sub-title>
+<desc>Jeannie tries out a method for turning things into porcelain.</desc>
+<credits>
+<director>Claudio Guzman</director>
+<actor>Barbara Eden</actor>
+<actor>Larry Hagman</actor>
+<actor>Bill Daily</actor>
+<actor>Hayden Rorke</actor>
+<actor>Emmaline Henry</actor>
+<actor>Woodrow Parfrey</actor>
+<actor>Barton Mac Lane</actor>
+</credits>
+<date>1969</date>
+<category>Comedy</category>
+<category>Fantasy</category>
+<category>Comedies</category>
+<category>Sci-Fi and Fantasy</category>
+<episode-num system="xmltv_ns">3.19.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123173000 +1100" stop="20091123180000 +1100" channel="GO">
+<title>Bewitched</title>
+<sub-title>Serena's Youth Pill</sub-title>
+<desc>A youth pill transforms Darrin's boss into a child.</desc>
+<credits>
+<director>E.W. Swackhamer</director>
+<actor>Elizabeth Montgomery</actor>
+<actor>Dick Sargent</actor>
+<actor>David White</actor>
+<actor>Kasey Rogers</actor>
+</credits>
+<date>1972</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">7.18.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123180000 +1100" stop="20091123183000 +1100" channel="GO">
+<title>The Flintstones</title>
+<sub-title>The Buffalo Convention</sub-title>
+<desc>Fred soon regrets giving Wilma a talking bird for her birthday. It causes him nothing but trouble when it tells Wilma of Fred's plan to attend a lodge convention out of town.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<episode-num system="xmltv_ns">2.6.</episode-num>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123183000 +1100" stop="20091123190000 +1100" channel="GO">
+<title>The Jetsons</title>
+<sub-title>Future Tense</sub-title>
+<desc>When Jane buys new dark glasses she is able to see a few minutes into the future - George immediately takes her to the race track where they plan to win big money.</desc>
+<category>Animated</category>
+<category>Childrens Group</category>
+<rating>
+<value>G</value>
+</rating>
+</programme>
+<programme start="20091123190000 +1100" stop="20091123193000 +1100" channel="GO">
+<title>Entertainment Tonight</title>
+<desc>Mary Hart and Mark Steines bring the latest celebrity news events, exclusive interviews, behind-the-scenes first looks, and Hollywood's hottest stories from the worlds of film, television, music, fashion, literature and interactive media.</desc>
+<credits>
+<actor>Mark Steines</actor>
+<actor>Mary Hart</actor>
+</credits>
+<category>Magazine</category>
+<category>Arts and Living</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123193000 +1100" stop="20091123200000 +1100" channel="GO">
+<title>Frasier</title>
+<sub-title>Three Valentines</sub-title>
+<desc>Frasier is frustrated by the ambiguous signals on his date with the station's PR manager... is it a business or a romantic dinner? Martin and Daphne go out together but both are feeling a bit self conscious.</desc>
+<credits>
+<director>Kelsey Grammer</director>
+<actor>Kelsey Grammer</actor>
+<actor>David Hyde Pierce</actor>
+<actor>John Mahoney</actor>
+<actor>Peri Gilpin</actor>
+<actor>Jane Leeves</actor>
+</credits>
+<date>1999</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">5.13.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123200000 +1100" stop="20091123203000 +1100" channel="GO">
+<title>Seinfeld</title>
+<sub-title>The Shower Head</sub-title>
+<desc>Elaine gets a physical for a pending trip with Peterman to Africa. Her test results show traces of opium, so Peterman fires her. Jerry's parents are in New York biding time until they can move back to Florida.</desc>
+<credits>
+<director>Andy Ackerman</director>
+<actor>Jerry Seinfeld</actor>
+<actor>Julia Louis-Dreyfus</actor>
+<actor>Jason Alexander</actor>
+<actor>Michael Richards</actor>
+</credits>
+<date>1996</date>
+<category>Comedy</category>
+<category>Situation</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">6.15.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+<programme start="20091123203000 +1100" stop="20091123213000 +1100" channel="GO">
+<title>The Vampire Diaries</title>
+<sub-title>History Repeating</sub-title>
+<desc>Think you know vampires? You don't. Neither does Elena Gilbert, but she's about to, as two very different brothers - one good, one evil; both vampires - will soon be at war for her soul. The town of Mystic Falls will never be the same again. Based on the best-selling series of books by L.J. Smith.</desc>
+<credits>
+<actor>Nina Dobrev</actor>
+<actor>Paul Wesley</actor>
+<actor>Ian Somerhalder</actor>
+</credits>
+<date>2009</date>
+<category>Drama</category>
+<category>Drama Group</category>
+<episode-num system="xmltv_ns">0.8.</episode-num>
+<rating>
+<value>M</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123213000 +1100" stop="20091123223000 +1100" channel="GO">
+<title>Nip/Tuck</title>
+<sub-title>Duke Collins</sub-title>
+<desc>After suspecting that something more than just their Secret Santa game is going on, Sean confronts Christian and Julia about the secret they have been keeping.</desc>
+<credits>
+<actor>Julian McMahon</actor>
+<actor>Dylan Walsh</actor>
+<actor>Joely Richardson</actor>
+<actor>John Hensley</actor>
+</credits>
+<date>2007</date>
+<category>Drama</category>
+<category>Medical</category>
+<category>Drama Group</category>
+<episode-num system="xmltv_ns">4.7.</episode-num>
+<rating>
+<value>M</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123223000 +1100" stop="20091123233000 +1100" channel="GO">
+<title>Bridezillas</title>
+<desc>Uncover the monstrous reality behind New York City's fairy tale weddings! Watch as these seemingly normal girlfriends become neurotic, demanding and emotional princesses in the lead up to their big day.</desc>
+<category>Reality</category>
+<category>Arts and Living</category>
+<rating>
+<value>PG</value>
+</rating>
+<star-rating>
+<value>0/10</value>
+</star-rating>
+</programme>
+<programme start="20091123233000 +1100" stop="20091124000000 +1100" channel="GO">
+<title>Frasier</title>
+<sub-title>Three Valentines</sub-title>
+<desc>Frasier is frustrated by the ambiguous signals on his date with the station's PR manager... is it a business or a romantic dinner? Martin and Daphne go out together but both are feeling a bit self conscious.</desc>
+<credits>
+<director>Kelsey Grammer</director>
+<actor>Kelsey Grammer</actor>
+<actor>David Hyde Pierce</actor>
+<actor>John Mahoney</actor>
+<actor>Peri Gilpin</actor>
+<actor>Jane Leeves</actor>
+</credits>
+<date>1999</date>
+<category>Comedy</category>
+<category>Comedies</category>
+<episode-num system="xmltv_ns">5.13.</episode-num>
+<rating>
+<value>PG</value>
+</rating>
+</programme>
+</tv>

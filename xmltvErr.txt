@@ -1,0 +1,13 @@
+November 24, 2009 12:12:14 AM EST System.err in C:\Documents and Settings\Paul.C2D1G8\Eclipse35\xmltv\workspace\xmltv_oztivo\xmltvErr.txt
+xmltv - xmltv extract from oztivo (2006Nov23)
+
+
+    
+Copyright (C) 2009 Paul Shipley, Melbourne, Australia
+mailto:pshipley@melbpc.org.au
+http://member.melbpc.org.au/~pshipley
+
+
+
+
+November 24, 2009 12:12:17 AM EST Closing C:\Documents and Settings\Paul.C2D1G8\Eclipse35\xmltv\workspace\xmltv_oztivo\xmltvErr.txt
